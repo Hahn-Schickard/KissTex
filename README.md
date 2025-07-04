@@ -1,4 +1,4 @@
-# 🧠 Kisstex – AI Modules for Edge Exploration
+# 🧠 FLEnv – AI Modules for Federated Learning & Edge Exploration
 
 **Kisstex** is a modular collection of AI components designed for lightweight, adaptive, and interactive applications on edge devices.  
 The goal is to build scalable, privacy-aware, and locally trainable systems to solve real-world challenges in robotics, sensing, and data efficiency.
